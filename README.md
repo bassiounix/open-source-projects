@@ -1,1 +1,9 @@
-# resume-projects
+# Projects
+
+|Project|Topics Covered|
+|:-:|:-:|
+| [Book Wishlist](https://github.com/bassiounix/book-wishlist) | `React`, `React Router`, `TanStack Query`, `Django`, `Django REST Framework` |
+| [Aim Platform](https://github.com/bassiounix/aim-platform) | `MVC`, `Nest.js`, `PostgreSQL`, `Auth`, `JWT`, `Passport.js`, `Helmet`, `Deployment`, `Render Platform` |
+| [HTTP Communication Client](https://github.com/bassiounix/secure-http-communication) | `HTTP`, `httplib`, `JSON Lib`, `RC4 Encryption Algorithm`, `End-to-end encryption`, `Elliptic-curve Diffie-Hellman key exchange method` |
+| [Interpreter](https://github.com/bassiounix/Lox) | `Compiler Theory`, `Automata Theory`, `Tokenizer`, `Parser`, `Parse Tree (Abstract Syntax Tree)`, `Code Generation`, `Visitor Pattern`, `Tree Traversal Interpretation`, `Context-aware execution` |
+| [Zoi](https://github.com/bassiounix/zoi) | `Rust`, `Game Theory`, `Game Tree`, `Mini-Max Algorithm`, |

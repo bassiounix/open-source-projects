@@ -1,7 +1,8 @@
-# Projects
+# Side Projects
 
 |Project|Topics Covered|
 |:-:|:-:|
+| [Wind](https://github.com/bassiounix/Wind) | `PowerShell`, `YAML`, `Windows`, `winget`, `vcpkg` |
 | [Book Wishlist](https://github.com/bassiounix/book-wishlist) | `React`, `React Router`, `TanStack Query`, `Django`, `Django REST Framework` |
 | [Aim Platform](https://github.com/bassiounix/aim-platform) | `MVC`, `Nest.js`, `PostgreSQL`, `Auth`, `JWT`, `Passport.js`, `Helmet`, `Deployment`, `Render Platform` |
 | [HTTP Communication Client](https://github.com/bassiounix/secure-http-communication) | `HTTP`, `httplib`, `JSON Lib`, `RC4 Encryption Algorithm`, `End-to-end encryption`, `Elliptic-curve Diffie-Hellman key exchange method` |

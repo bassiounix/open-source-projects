@@ -1,3 +1,8 @@
+# Open Source Contributions
+
+## LLVM
+https://github.com/llvm/llvm-project/issues?q=author%3Abassiounix
+
 # Side Projects
 
 |Project|Topics Covered|
